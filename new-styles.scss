@@ -35,3 +35,44 @@ footer {
   background-color: #D2F0FA;
   padding: 1rem;
 }
+
+.cta a, .cta a:visited, .cta a:hover, .cta a:focus {
+  color: #2D5461;
+  text-decoration: none;
+}
+
+a.link2  {
+  color: #3A612D; 
+  
+}
+a.link2:visited {
+  color: #D2F0FA;
+  
+}
+
+a.link2:hover, a.link2:focus  {
+  
+  text-shadow: 3px 3px 8px gray;
+}
+
+.headline  {
+  text-align: center;
+  font-weight: bold;
+}
+
+input[type="submit"] {
+  background-color: #3A612D;
+  color: white;
+  border-radius: 50px;
+}
+
+p.first-letter::first-letter  {
+  font-size: 3em;
+}
+
+
+
+.highlight  {
+  background-color: #D2F0FA;
+  padding: 1rem;
+}
